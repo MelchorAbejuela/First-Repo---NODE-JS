@@ -1,0 +1,10 @@
+readFileSync and writeFileSync - it blocks the program, no function will be executed until it finish (synchronous)
+readFile and writeFile - (asynchronous) meaning it executes the next block of code even though it's not finish yet
+
+github command to push something
+1. git init
+2. git add .
+3. git commit -m "change and add your message"
+4. copy and paste the 3 command from your repo
+
+stopped: 1:45
